@@ -13,7 +13,7 @@ pip2 install mechanize
 
 pip2 install requests 
 
-git clone https://github.com/sultan hacker/old_fb
+git clone https://github.com/sultanhacker001/old_fb
 
 cd old_fb
 
