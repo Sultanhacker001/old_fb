@@ -1,5 +1,4 @@
-# old_fb
-
+ 😨
 
 pkg update
 
@@ -11,14 +10,16 @@ pkg install python2
 
 pip2 install mechanize
 
-pip2 install requests 
+pip2 install requests
 
-git clone https://github.com/edrianabizada/old_fb
+git clone https://github.com/sultanhacker001/old_fb
 
 cd old_fb
 
-python2 Nabizada.py
+python2 sultanhacker001.py
 
-Username : edris
+Username :sultan
 
-Password : nabizada
+Password : dark web
+
+
