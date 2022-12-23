@@ -13,12 +13,12 @@ pip2 install mechanize
 
 pip2 install requests 
 
-git clone https://github.com/edrianabizada/old_fb
+git clone https://github.com/sultan hacker/old_fb
 
 cd old_fb
 
-python2 Nabizada.py
+python2 sultan.py
 
-Username : edris
+Username : sultan
 
-Password : nabizada
+Password : dark web
